@@ -4,7 +4,7 @@ const SECTIONS_DATA = [
     {
         title: 'hats',
         // imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
-        imageUrl: '/img/homepage/hats.png', // local file in public/img/homepage/
+        imageUrl: 'img/homepage/hats.png', // local file in public/img/homepage/
         id: 1,
         linkUrl: 'shop/hats'
 
